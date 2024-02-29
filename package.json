@@ -40,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pactflow/cypress-pact-adapter.git"
+    "url": "git+https://github.com/endpoint/cypress-pact-adapter.git"
   },
   "bugs": {
-    "url": "https://github.com/pactflow/cypress-pact-adapter/issues"
+    "url": "https://github.com/endpoint/cypress-pact-adapter/issues"
   },
-  "homepage": "https://github.com/pactflow/cypress-pact-adapter#readme"
+  "homepage": "https://github.com/endpoint/cypress-pact-adapter#readme"
 }
